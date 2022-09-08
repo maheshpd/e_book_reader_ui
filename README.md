@@ -1,16 +1,4 @@
 # e_book_reader_ui
 
-A new Flutter project.
+<img src="https://user-images.githubusercontent.com/26844387/189127672-f1a931ca-d808-4bb9-abf5-329a4d191e46.png" width="200" height="400" />  <img src="https://user-images.githubusercontent.com/26844387/189127765-10466b9d-90a3-4c9f-929d-d767598d7d00.png" width="200" height="400" />  <img src="https://user-images.githubusercontent.com/26844387/189127866-0347a3f4-6544-4a8d-a3bb-97ab71140af3.png" width="200" height="400" />  <img src="https://user-images.githubusercontent.com/26844387/189127995-3dc9a2bb-a743-422b-8a58-95c677bb4b76.png" width="200" height="400">  <img src="https://user-images.githubusercontent.com/26844387/189128142-9c4892ce-5cb8-4bb3-a9ec-abec74c45e70.png" width="200" height="400" />  <img src="https://user-images.githubusercontent.com/26844387/189128260-2160f00b-f773-4a01-8ba6-7c36119c9ab6.png" width="200" height="400" />  <img src="https://user-images.githubusercontent.com/26844387/189128416-e2db56fb-7ffb-433f-bbc0-1689d281a14f.png" width="200" height="400" />  
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
